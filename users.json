@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "first_name": "Tallulah",
+    "last_name": "Goshawk",
+    "email": "tgoshawk0@biglobe.ne.jp",
+    "gender": "Female"
+  },
+  {
+    "id": 2,
+    "first_name": "Thorsten",
+    "last_name": "Priestnall",
+    "email": "tpriestnall1@acquirethisname.com",
+    "gender": "Male"
+  },
+  {
+    "id": 3,
+    "first_name": "Teddie",
+    "last_name": "Flinn",
+    "email": "tflinn2@pagesperso-orange.fr",
+    "gender": "Male"
+  },
+  {
+    "id": 4,
+    "first_name": "Layla",
+    "last_name": "Shipton",
+    "email": "lshipton3@twitter.com",
+    "gender": "Non-binary"
+  },
+  {
+    "id": 5,
+    "first_name": "Magdalena",
+    "last_name": "Blaxlande",
+    "email": "mblaxlande4@eventbrite.com",
+    "gender": "Female"
+  },
+  {
+    "id": 6,
+    "first_name": "Phylis",
+    "last_name": "Skechley",
+    "email": "pskechley5@ycombinator.com",
+    "gender": "Female"
+  },
+  {
+    "id": 7,
+    "first_name": "Rebe",
+    "last_name": "Reame",
+    "email": "rreame6@reverbnation.com",
+    "gender": "Female"
+  },
+  {
+    "id": 8,
+    "first_name": "Rena",
+    "last_name": "Joanic",
+    "email": "rjoanic7@usnews.com",
+    "gender": "Female"
+  },
+  {
+    "id": 9,
+    "first_name": "Moore",
+    "last_name": "Slucock",
+    "email": "mslucock8@accuweather.com",
+    "gender": "Male"
+  },
+  {
+    "id": 10,
+    "first_name": "Eben",
+    "last_name": "Stenett",
+    "email": "estenett9@friendfeed.com",
+    "gender": "Male"
+  }
+]
